@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio2 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         int anoAtual,anoNasc,idade;
         Scanner sc = new Scanner(System.in);
 

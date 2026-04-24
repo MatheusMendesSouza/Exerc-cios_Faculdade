@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio1 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         int num1,num2,num3,media;
         Scanner sc = new Scanner(System.in);
 
@@ -16,7 +16,7 @@ public class Exercicio1 {
 
         media = (num1+num2+num3)/3;
 
-        System.out.printf("A média dos números digitados é de "+ media + ".");
+        System.out.printf("A média dos números digitados é de " + media + ".");
         sc.close();
     }
 }

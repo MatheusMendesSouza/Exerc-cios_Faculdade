@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio3 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         float cotacao, qtd;
         Scanner sc = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio4 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         float diagMaior, diagMenor;
         Scanner sc = new Scanner(System.in);
 
